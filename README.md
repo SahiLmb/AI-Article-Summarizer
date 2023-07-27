@@ -1,8 +1,8 @@
-# Open Source Article Summarizer using GPT-4
+# Article Summarizer using Artificial Intellegence
 
 <br />
 <p align="center">
-  <img src="" width="80%" />
+  <img src="src/assets/Artical Summarizer 1.jpg" width="80%" />
 </p>
 
 
