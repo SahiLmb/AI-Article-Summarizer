@@ -1,3 +1,12 @@
+# Open Source Article Summarizer using GPT-4
+
+<br />
+<p align="center">
+  <img src="" width="80%" />
+</p>
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
