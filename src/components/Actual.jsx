@@ -5,17 +5,9 @@ const Actual = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex-justify-between items-center w-full mb-10 pt-2">
-        <img src={ logo } alt = "Abstractz" className="w-28 object-contain" />
+        
 
-        <button
-          type='button'
-          onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
-          }
-          className='black_btn'
-        >
-          GitHub
-        </button>
+        
 </nav>
         
 
@@ -24,8 +16,9 @@ const Actual = () => {
         <span className="sky_gradient">Artificial Intelligence</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lenghty articles into clear and concise summaries
+      Experience the ease of reading with Abstractz, an open-source article summarizer designed to condense 
+      lengthy articles into clear and concise summaries. Unlock the power of knowledge without getting lost 
+      in the sea of words - try Abstractz today!
 
       </h2>
 
