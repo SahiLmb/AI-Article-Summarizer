@@ -1,3 +1,12 @@
+# Article Summarizer using Artificial Intellegence
+
+<br />
+<p align="center">
+  <img src="src/assets/Artical Summarizer 1.jpg" width="80%" />
+</p>
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
